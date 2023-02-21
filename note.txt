@@ -1,0 +1,6 @@
+First note : create the html and javascript files. 
+
+Second note: create a fetch api js file. 
+
+Last note: create a code description file. 
+
